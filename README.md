@@ -4,7 +4,7 @@ Ambitious .NET and web development student passionate about creating user-friend
 I enjoy learning new technologies, building real projects, and improving my backend & frontend skills.  
 
 - 🌍 I'm based in Sweden  
-- 📧 You can contact me at: abdulkadirdev@hotmail.com  
+- 📫 You can contact me at: abdulkadirdev@hotmail.com  
 - 💻 I'm learning .NET, C#, Web APIs, HTML, CSS, SQL and backend development  
 - 🤝 I'm open to interesting projects & team collaborations
 
